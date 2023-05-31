@@ -1,0 +1,20 @@
+Task Description:
+Mr Kim Jong Un wants to automate all the electronic devices in his his hotel. He wants to group the devices/instruments based on rooms. 
+"He needs an interface where a room can be added, after adding room the electronic devices like Light Bulb, Fan, AC etc can be added as devices."
+==
+Mr Kim wants to provide access to the room renters in this software so that they can operate these devices like switching them on/off along with regulating the RPM of fans and temparature of the ACs, as an admin he can also manage any device of any room. Besides he wants to be notified on every action done by the renters in his interface and can monitor current temparature of each room. He also wants to see doors are locked or not.
+
+Detailed Points:
+
+1. This is a simulation application, you have to simulate devices
+
+2. There should be admin interface for Mr Kim Jong Un and renter interface for the renters.
+
+3. Since the facility is a hotel so you can assume that no renters are long term renters, so admin should be able to provide access to the new renters and kill access when needed.
+
+4. For notification use socket.
+
+5. Beautification of User Interface is not necesaary, If you can, do it with vanilla CSS. We would appreciate.
+
+6. You can use any Node Based Lib/Framework for Backend, MySQL or MongoDB as Database, React JS / Next JS for Frontend with Redux or Redux Toolkit or any other state management lib/framework.
+
